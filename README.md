@@ -66,3 +66,10 @@ SELECT customer_name, SUM(sales_amount) AS total_spent
 FROM sales_data
 GROUP BY customer_name
 ORDER BY total_spent DESC;
+
+## Author
+Santhosh R P
+🔗 LinkedIn: https://www.linkedin.com/in/santhosh-rp
+💻 GitHub: https://github.com/santhosh-data-analyste
+
+
